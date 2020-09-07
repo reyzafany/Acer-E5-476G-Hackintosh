@@ -641,6 +641,24 @@
 				<key>BundlePath</key>
 				<string>IntelBluetoothInjector.kext</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/itlwm</string>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>itlwm_v1.0.0_stable.kext</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -1120,7 +1138,7 @@
 			<key>MLB</key>
 			<string>C027343064NHWVPFB</string>
 			<key>ROM</key>
-			<data>6Sl3/d2u</data>
+			<data>2MSXQgzv</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
