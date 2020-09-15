@@ -1,4 +1,4 @@
-// Require _CRS (045F4352 53) to XCRS (04584352 53) rename patch
+// Require _CRS (045F4352 53) to XCRS (04584352 53) rename patch.
 DefinitionBlock ("", "SSDT", 2, "AMDS", "I2Cpatch", 0x00000000)
 {
     External (_SB_.PCI0.I2C0.TPDE, DeviceObj)    // (from opcode)
